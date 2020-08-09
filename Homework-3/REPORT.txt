@@ -1,0 +1,5 @@
+# Homework-3
+72 taşa kadar hesaplamamızın nedeni long long tipindeki bir verinin alabileceği maximum değer 9.223.372.036.854.775.807'dir ve 73. adımdan sonra bu değer aşılır.
+
+Recursive fonksiyonun takılmasının nedeni kodun çalışma ekranında görüldüğü gibi her bir adımda kodun işlem süresi yaklaşık olarak iki kat artıyor. Bunun nedeni her bir adımda yapılan işin yaklaşık olarak iki katına çıkmasıdır.
+ 

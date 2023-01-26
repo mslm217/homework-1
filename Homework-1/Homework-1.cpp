@@ -1,5 +1,5 @@
 /*Homework-1
-Müslüm Türk
+MÃ¼slÃ¼m TÃ¼rk
 Program that shapes the stars according to the entered value*/
 
 #include<iostream>
@@ -20,7 +20,7 @@ void duzUcgen(int deger) //Makes a straight triangle shape
 	}
 }
 
-void tersUcgen(int deger) //Makes an inverted triangle shape
+void tersUcgen(int deger) // Makes an inverted triangle shape
 {
 	int line = (deger + 1) / 2;
 	int i = line;
